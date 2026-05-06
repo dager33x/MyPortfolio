@@ -1,0 +1,43 @@
+[
+  {
+    "id": "acadify",
+    "title": "Acadify",
+    "description": "Student-Performance-Tracker\nThis project is an ASP.NET Core application for tracking student performance.",
+    "tech": [
+      ".NET",
+      "Supabase",
+      "Razor"
+    ],
+    "accent": "cyan",
+    "image": "/Acadify.png",
+    "projectUrl": "https://github.com/BossEros/Acadify",
+    "codeUrl": "#"
+  },
+  {
+    "id": "optiflow",
+    "title": "Optiflow",
+    "description": "OptiFlow is a smart traffic management system designed to improve road efficiency and reduce congestion. It uses multiple camera inputs.",
+    "tech": [
+      "supabase"
+    ],
+    "accent": "cyan",
+    "image": "/optiflow.png",
+    "projectUrl": "https://github.com/dager33x/SystemOptiflow",
+    "codeUrl": "#"
+  },
+  {
+    "id": "tutor-match-system",
+    "title": "Tutor Match System",
+    "description": "A matching platform concept focused on connecting students with tutors through structured profiles, searchable skills, and reliable request flows.",
+    "tech": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "React"
+    ],
+    "accent": "cyan",
+    "image": "/Tutor.png",
+    "projectUrl": "#",
+    "codeUrl": "#"
+  }
+]

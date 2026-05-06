@@ -1,0 +1,92 @@
+[
+  {
+    "id": "accenture-sap-abap-trainee-completion-1778047388406",
+    "title": "Accenture Sap Abap Trainee Completion",
+    "issuer": "Accenture",
+    "issuedAt": "November 28, 2025",
+    "category": "SAP ABAP DEVELOPER TRAINEE",
+    "imageUrl": "Accneture-completion.JPG",
+    "fileUrl": "#"
+  },
+  {
+    "id": "accenture-sap-abap-trainee-completion",
+    "title": "Accenture Sap Abap Trainee Participation",
+    "issuer": "Accenture",
+    "issuedAt": "November 28, 2025",
+    "category": "SAP ABAP DEVELOPER TRAINEE",
+    "imageUrl": "Accenture-participation.JPG",
+    "fileUrl": "#"
+  },
+  {
+    "id": "alliance-jumpstart-training-program",
+    "title": "Alliance Jumpstart Training Program",
+    "issuer": "Alliance",
+    "issuedAt": "December 2025",
+    "category": "Trainee",
+    "imageUrl": "/Alliance-Ecert.png",
+    "fileUrl": "#"
+  },
+  {
+    "id": "topcit-lvl-2",
+    "title": "TOPCIT LVL 2",
+    "issuer": "ICT",
+    "issuedAt": "December 10, 2025",
+    "category": "Acheivement",
+    "imageUrl": "/Topcit Cert.png",
+    "fileUrl": "#"
+  },
+  {
+    "id": "database-programming-certification-of-participate",
+    "title": "Database Programming Certification of Participate",
+    "issuer": "UCLM",
+    "issuedAt": "February 2025",
+    "category": "Participation",
+    "imageUrl": "/Database programming sem.png",
+    "fileUrl": "#"
+  },
+  {
+    "id": "certificate-of-participation",
+    "title": "The Ai Advantage Certificate of Participation",
+    "issuer": "UCLM",
+    "issuedAt": "December 6, 2025",
+    "category": "Participation",
+    "imageUrl": "/AI advantage Cert.png",
+    "fileUrl": "#"
+  },
+  {
+    "id": "seamless-cloud-seminar",
+    "title": "Seamless Cloud Seminar Participation",
+    "issuer": "UCLM",
+    "issuedAt": "November 29, 2025",
+    "category": "Participation",
+    "imageUrl": "/Seamless Cloud Cert.png",
+    "fileUrl": "#"
+  },
+  {
+    "id": "12th-ict-congress",
+    "title": "12th ICT CONGRESS",
+    "issuer": "UC",
+    "issuedAt": "April 22, 2026",
+    "category": "Participating",
+    "imageUrl": "ICT.png",
+    "fileUrl": "#"
+  },
+  {
+    "id": "3rd-year-2nd-sem-deans-lister",
+    "title": "3rd Year 2nd Sem Deans Lister",
+    "issuer": "UCLM",
+    "issuedAt": "September 2025",
+    "category": "Achievement",
+    "imageUrl": "Deans 2nd.png",
+    "fileUrl": "#"
+  },
+  {
+    "id": "3rd-year-1st-sem-deans-lister",
+    "title": "3rd Year 1st Sem Deans Lister",
+    "issuer": "UCLM",
+    "issuedAt": "September 2025",
+    "category": "Achievment",
+    "imageUrl": "Deans 1st.png",
+    "fileUrl": "#"
+  }
+]
