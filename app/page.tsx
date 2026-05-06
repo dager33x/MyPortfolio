@@ -306,7 +306,7 @@ export default function Home() {
           }
         });
       },
-      { rootMargin: "-35% 0px -50% 0px", threshold: 0.12 }
+      { rootMargin: "-18% 0px -35% 0px", threshold: 0.05 }
     );
 
     sections.forEach((section) => observer.observe(section));
@@ -627,7 +627,7 @@ export default function Home() {
       <section className="section-shell reveal-section" id="contact">
         <div className="section-heading">
           <p className="eyebrow">Contact</p>
-        <h2>MY CONTACT INFORMATION</h2>
+        <h2>My contact Information</h2>
         </div>
         <div className="contact-grid">
           <form className="contact-form" onSubmit={handleSubmit}>
